@@ -54,6 +54,7 @@ https://github.com/iomakarsingh/dice_roll/tree/main/Images/Test
 This project is licensed under the MIT License.
 
 **Contact:**
+
 For questions, suggestions, or feedback, please contact Omkar Singh at iomakarsingh@gmail.com.
 
 **Changelog:**
