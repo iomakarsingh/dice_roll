@@ -1,0 +1,47 @@
+#container {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  background-color: rgb(116, 38, 32);
+  color: aquamarine;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+button {
+  font-family: "Times New Roman", Times, serif;
+  padding: 5px;
+  background-color: brown;
+  border: none;
+  border-radius: 15px;
+  font-size: 2rem;
+  color: aquamarine;
+  margin: 5px;
+}
+
+button:hover {
+  background-color: rgb(107, 13, 8);
+}
+button:active {
+  background-color: brown;
+}
+
+#numDice {
+  background-color: brown;
+  color: aquamarine;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 2rem;
+  text-align: center;
+  border: none;
+  border-radius: 10px;
+}
+
+#result {
+  margin: 25px;
+}
+
+#image {
+  display: flex;
+  justify-content: center;
+  width: 100px;
+  margin: auto;
+}
