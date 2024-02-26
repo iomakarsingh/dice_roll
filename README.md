@@ -46,7 +46,7 @@ Enjoy the animated dice roll and view the results.
 **Examples:**
 
 
-Include screenshots or GIFs demonstrating the different aspects of your dice roller.
+https://github.com/iomakarsingh/dice_roll/tree/main/Images/Test
 
 **License:**
 
